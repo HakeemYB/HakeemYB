@@ -9,11 +9,6 @@ Hi there! 👋 I'm a dedicated DevOps engineer and a passionate ML/AI enthusiast
 **Location:**
 - 📍 Gilgit, Pakistan
 
-## Technical Stack
-
-- **Data Science / Machine Learning / Deep Learning:**
-  - Completed Bachelor's in Computer Science from KIU, Gilgit (09/2018-09/2022).
-
 ## Internships + Trainings
 
 - **Cloudlem Pvt Ltd:**
@@ -41,10 +36,16 @@ Hi there! 👋 I'm a dedicated DevOps engineer and a passionate ML/AI enthusiast
 
 ## Education
 
-- **Mathematics for ML & DL:**
-  - Algebra, Probability, Statistics, Calculus, Matrices.
+  - Completed **Bachelor's in Computer Science** from KIU, Gilgit (09/2018-09/2022).
+
 
 ## Technical Skills
+
+- **Data Science / Machine Learning / Deep Learning:**
+  - Python,Data Visualisation,Computer Vision,Supervised learning algos, Unsupervised Learningalgos,ANN,CNN,EDA ,Feature engineering,Feature selection & extraction, etc.
+  
+- **Mathematics for ML & DL:**
+  - Algebra, Probability, Statistics, Calculus, Matrices.
 
 - **Programming Languages:**
   - Python, Go, JavaScript, SQL, NoSQL, HTML, CSS.
