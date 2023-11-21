@@ -3,7 +3,7 @@
 Hi there! 👋 I'm a dedicated DevOps engineer and a passionate ML/AI enthusiast with a goal of contributing my technical skills and expertise in an organization that fosters both professional and personal growth. 🚀
 
 **Contact Information:**
-- Email: baig.hakeemyar@gmail.com
+- Email: baighakeemyar@gmail.com
 - GitHub: [HakeemYB](https://github.com/HakeemYB)
 
 **Location:**
