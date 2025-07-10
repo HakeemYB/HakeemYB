@@ -2,7 +2,7 @@
 
 **DevOps · MLOps · AI/ML Engineer**
 
-🌍 Gilgit, Pakistan · 🔗 [beeneural.com](https://hakeem.beeneural.com) · 📬 baighakeemyar@beeneural.com · 💻 [GitHub: HakeemYB](https://github.com/HakeemYB)
+🌍 Gilgit, Pakistan · 🔗 [hakeem.beeneural.com](https://hakeem.beeneural.com) · 📬 baighakeemyar@beeneural.com · 💻 [GitHub: HakeemYB](https://github.com/HakeemYB)
 
 ---
 
