@@ -1,93 +1,70 @@
 # Hakeem Yar Baig
 
-Hi there! 👋 I'm a dedicated DevOps engineer and a passionate ML/AI enthusiast with a goal of contributing my technical skills and expertise in an organization that fosters both professional and personal growth. 🚀
+**DevOps · MLOps · AI/ML Engineer**
 
-**Contact Information:**
-- Portfolio: https://hakeemyb.github.io/portifolio/
-- Email: baighakeemyar@gmail.com
-- GitHub: [HakeemYB](https://github.com/HakeemYB)
+🌍 Gilgit, Pakistan · 🔗 [beeneural.com](https://hakeem.beeneural.com) · 📬 baighakeemyar@beeneural.com · 💻 [GitHub: HakeemYB](https://github.com/HakeemYB)
 
-**Location:**
-- 📍 Gilgit, Pakistan
+---
 
-## Internships + Trainings
+## 🚀 About Me
+I'm a DevOps/MLOps Engineer & AI/ML Specialist with 4+ years of experience. I specialize in building intelligent, scalable systems and automating workflows to enable enterprise-grade deployments. I blend DevOps precision with AI/ML innovation to deliver robust solutions :contentReference[oaicite:1]{index=1}.
 
-- **Cloudlem Pvt Ltd:**
-  - DevOps Intern (Jan 2023 - June 2023)
+---
 
-- **Cloudlem Pvt Ltd:**
-  - Jr. DevOps Engineer (June 2023 - Present)
+## 🏢 Experience
 
-## Personal Projects
+### **Co‑Founder & COO — BeeNeural**
+- Leading initiatives in AI agents, DevOps automation, and enterprise ML workflows  
+- Driving operational excellence and product innovation :contentReference[oaicite:2]{index=2}
 
-1. **License Plate Detection using Fine-Tuned Yolov8 Model:**
-   - Custom dataset and EasyOCR, Flask app (Ongoing)
+### **Cloudlem Pvt Ltd** *(2023–Present)*  
+- Jr. DevOps Engineer / DevOps Intern  
+- Implemented CI/CD pipelines, Terraform infrastructure, containerized workloads, and monitoring solutions
 
-2. **Kubernetes Three-Tier App:**
-   - Deployed a scalable three-tier application on Kubernetes with zero-downtime updates through rolling and blue-green deployments. Implemented automated monitoring with Prometheus and Grafana.
+---
 
-3. **Terraform AWS Infrastructure:**
-   - Engineered AWS infrastructure with Terraform for consistency and version control. Utilized auto-scaling to optimize resource usage based on traffic patterns.
+## 🔧 Projects & Highlights
 
-4. **NLP Chatbot Dev:**
-   - Developed a Natural Language Processing chatbot integrating NLP models. Deployed on cloud platforms for seamless user interactions and scalability.
+- **License Plate Detection**: Real‑time YOLOv8 + EasyOCR + Flask—custom dataset deployment  
+- **Kubernetes 3‑Tier App**: Rolled‑out zero‑downtime updates, blue‑green deployments with Prometheus & Grafana  
+- **Terraform AWS Infra**: Automated provision of VPC, EC2, RDS with autoscaling & DVC for ML pipelines  
+- **AI Chatbot**: Transformer‑based NLP assistant deployed via Flask and cloud containers  
+- **GitHub Actions Automation**: Full CI/CD pipelines including tests, lint, container pushes and security scans  
+- **Legal Document AI Assistant**: (2024–2025) A LangGraph + Groq LLaMA3 Streamlit app with OCR, BI letter automation, FAISS vector search, and AI agents
 
-5. **GitHub Actions Automation:**
-   - Created end-to-end automation pipelines using GitHub Actions for code testing, deployment, and security scans on each push. Enhanced team collaboration and productivity.
+---
 
-## Education
+## 🎓 Education & Certifications
 
-  - Completed **Bachelor's in Computer Science** from KIU, Gilgit (09/2018-09/2022).
+- **BSc in Computer Science** — Karakoram International University, Gilgit (2018–2022)  
+- **Data Science & AI** – NUST (2023)  
+- **DevOps Tools** – Cloudlem (2023) · **Google Cloud Fundamentals** – GCP (2023)  
+- **Google IT Automation with Python** – Coursera (2023)
+
+---
+
+## 🧠 Technical Skills
+
+- **Languages & Frameworks**: Python, Go, JavaScript, SQL, Bash, Flask, Django  
+- **DevOps & Infra**: Docker, Kubernetes (K8s/K3s), Terraform, DVC, CI/CD (GitHub Actions, Jenkins, CircleCI)  
+- **Cloud Platforms**: AWS (EC2, Beanstalk, RDS), GCP, Azure  
+- **Monitoring & Logging**: Prometheus, Grafana  
+- **ML/AI & Data**: Computer Vision, NLP, Scikit‑Learn, TensorFlow, Keras, OpenCV, NumPy, Pandas  
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Firebase
 
 
-## Technical Skills
+## 💡 Let’s Connect
 
-- **Data Science / Machine Learning / Deep Learning:**
-  - Python,Data Visualisation,Computer Vision,Supervised learning algos, Unsupervised Learningalgos,ANN,CNN,EDA ,Feature engineering,Feature selection & extraction, etc.
-  
-- **Mathematics for ML & DL:**
-  - Algebra, Probability, Statistics, Calculus, Matrices.
+- Open to **AI/ML**, **DevOps**, and **MLOps** roles—remote or hybrid  
+- Always happy to chat about AI, automation, or DevOps best practices  
+- Reach out via email or connect on LinkedIn
 
-- **Programming Languages:**
-  - Python, Go, JavaScript, SQL, NoSQL, HTML, CSS.
+---
 
-- **Data Science:**
-  - Python packages and frameworks (Scikit-Learn, TensorFlow, Keras, NumPy, Pandas, SciPy, Beautiful Soup, PySpark).
+## ⚡ Fun Facts & Languages
 
-- **DevOps Tools:**
-  - DVC, GitHub Actions, CI/CD, Kubernetes (K8S/K3S), CircleCI, Jenkins, Terraform.
+- Quick learner, optimistic, strong communicator, leadership-minded  
+- Fluent in **English**, **Urdu**, and **Burushaski**
 
-- **Web Development:**
-  - HTML, CSS, Flask, Django, JavaScript.
+---
 
-- **Database:**
-  - MySQL, MongoDB, Redis, PostgreSQL, Google Firebase.
-
-- **Cloud Deployment and Container:**
-  - AWS Beanstalk, AWS EC2, GCP, Azure, Git, Docker.
-
-## Certifications
-
-- **Data Science and AI:**
-  - NUST, May-Nov 2022.
-
-- **DevOps Tools:**
-  - Cloudlem Pvt Ltd, Jan-June 2023.
-
-- **Google Cloud Fundamentals:**
-  - Google Cloud Platform, May 2023.
-
-- **Google IT Automation with Python Professional Certificate:**
-  - Coursera, Jan-June 2023.
-
-## Skills
-
-- 🚀 Fast Learner, 💼 Leadership, 😊 Optimistic, 🧠 Problem Solving, 🗣️ Communication Skills, ⏰ Time Management.
-
-## Interests
-
-- AI/ML, Software Engineering, Development.
-
-## Languages Known
-
-- English, Urdu, Burushaski.
